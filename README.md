@@ -1,5 +1,17 @@
 # School-ERP-
 CBSE Class 12 Python Project on School ERP(Tkinter+MySql)
+
+School Name:
+
+GVK Chinmaya Vidyalaya
+
+Class 12 Team Members:
+1. Ikram
+2. Meera Mohiddin
+3. Jayanth
+
+Under the Guidance of Chinthala Vijaya Kumar
+
 ![Admin Add](https://user-images.githubusercontent.com/62373532/113535407-f3ce3800-95f0-11eb-93c6-6f445a597a91.PNG)
 ![Admin Check Screen](https://user-images.githubusercontent.com/62373532/113535441-12343380-95f1-11eb-8467-b6dfe2fbdd3e.PNG)
 ![Admin Delete](https://user-images.githubusercontent.com/62373532/113535446-13656080-95f1-11eb-8844-732f5f446246.PNG)
